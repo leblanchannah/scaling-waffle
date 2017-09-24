@@ -1,0 +1,154 @@
+Siddhartha Mukherjee is here. He is an assistant professor of medicine at Columbia, and a cancer physician and researcher. He's also a very good writer, a Pulitzer Prize winning author. His latest book, "The Gene: An Intimate History," comes out in paperback this month. He writes about the future of automated medicine in a new piece for the "New Yorker Magazine." It is called, "The Algorithm will See You Now." I am pleased to have Siddhartha Mukherjee back at this stable. Welcome. 
+
+Thank you, Charlie. 
+
+So with some sense of paternity, tell me how this piece came about. 
+
+This piece came about because, you know, it's a conference that you organize every fall, and I was talking at this conference to Sebastian Thrun, who works on A.I. And Sebastian told me, you know, I've been working on this thing in A.I. in medicine, and so my ears perked up. We were at the conference and my ears perked up. And I said what are you doing? And Sebastian then began to describe sort of an early version, this wasn't there yet. It certainly hadn't been published in nature as it eventually was. But it instantly caught my attention as a physician, you know, what if we could use these powerful technologies, deep learning paradigms to start doing diagnosis. What would happen to radiology? What will happen to dermatology? What will happen to doctors once we engage powerful computers to aid in diagnosis. So that's sort of the birth -- 
+
+So it began with a what if? 
+
+Yes, it began with a what if, yes. 
+
+And what did you discover? 
+
+One of the questions that was raised almost immediately for me was, you know, once we enter this space, where do we stop? Where do we start and where do we stop? You know, as this conversation proceeded that afternoon, at this conference that you organized, as the conversation proceeded, it became clear to me that the ambitions of these diagnostic technologies was wider, or wider than I had imagined. So, for instance, you know, Sebastian talked about a mirror that would photograph you every day and using these technologies, map every growing mole on your body, or sitting in a bathtub, where, you know, you would have a scan performed at granular detail and it could figure out because it had learned, it could figure out what was growing and what was not growing. 
+
+So if there was a malignant cell, it could see it grow. 
+
+Basically, that's the ambition. But remember, to me it raised a whole series of questions. Question number one, you know, what was the -- could this be accurate? Could this -- could you accurately -- could you train a machine to recognize a melanoma and distinguish a melanoma from a benign skin lesion, whatever it might be. So that was one question. But the second question, I think is very, very important. The second question is what if you over diagnosed? What if you were sitting in this bathtub or this hall of mirrors, constantly being surveyed, this kind of big data is watching you. What would happen? I mean, would we start intervening on cancers that we would not otherwise intervene on. Maybe, you know, those cancers are harmless. So for an oncologist, for me it raises the whole question of diagnosis. You know, where are we going with diagnosis? Are we going to over diagnose? Are we going to start invading in the body in a way that we hadn't expected to, just because as machines learn, they'll keep telling us. 
+
+OK, but help me understand the difference. I always believe that all knowledge is good. The more you knew, the better you were. And you are saying here, if the more you know causes you to take certain kind -- too many tests. 
+
+That's exactly right. And in fact, let me turn it back to you and say all knowledge isn't good in medicine. There are things that you don't need to know about. 
+
+That's one thing, say you don't need to know about, I'm not talking about need, I'm talking about what harm does it do? 
+
+The harm might be -- over-diagnosis can cause severe harm. You can cut up pieces of the body, can biopsy them. There is economic cost, you know, there is consequential cost to it. You might be chasing cancers. We now know from autopsy series that many people will die of cancers that are incidental. So in other words, a person dies of an automobile accident, you do an autopsy, and you find all these cancers in their bodies. This has been documented. Many of them are incidental. They will not die of these cancers. But imagine if a machine was telling you, I found a cancer there, I found a cancer here, I found this. But it may not be able to tell you, you know, is that cancer going to metastasize? Is it going to become aggressive? So you have the possibility of entering into this kind of, you know, hall of mirrors. So that is where diagnosis, you know, you have to think about diagnosis very clearly. Now, the paper that tipped me off is the study in nature which is, can you teach a machine to learn how to distinguish a benign skin lesion from a melanoma? And what's amazing about it is that it seems that you can. You don't need to give it rules. That's what's astonishing about it. You know, in medicine, the way we learn is there are two ways, and I talked about it in this article. One way is giving -- knowing facts. People say, you know, this fact is true, melanomas have these characteristics. So if you see these characteristics, you know, they are asymmetric, they have, you know, funny borders, their diameter is some big, you know, big and their color, so ABCD. So those are rules. So that's rule-based learning. But if you really think about how doctors diagnose, it makes -- doctors often make a transition from these rule-based learning to a pattern-based learning. So we begin to pick up patterns. We begin to figure out that melanomas, we can't tell you exactly, but that looks like a melanoma, that doesn't look like a melanoma. That looks like cancer, that doesn't look like cancer. This patient looks like he or she has significant heart disease, this patient looks like she doesn't. What is amazing about these, what I found amazing about these deep learning algorithms is you don't teach them any rules. You just give them examples. You say here is a melanoma, here is not a melanoma. You figure it out. 
+
+That is what they do, that is exactly what one part of AI is about. 
+
+That is exactly right. 
+
+You learn by, you know, you say go from here to there. And you learn by the experience of going there. 
+
+Absolutely. And it is sort of a -- it is a knowing-how. 
+
+Yes. 
+
+The machine sort of just maybe, we don't know exactly how the brain works, of course. But perhaps this is how the brain, you know, perhaps by adjusting weights and balances and along these categories. I give the example in the piece, about a child learning, this is a dog and that is a wolf. 
+
+Right. 
+
+And the question is how does a child know that is a dog and that is a wolf, right? The child knows by, one thinks, the child knows by using a hundred categories of dog and a hundred pictures of a wolf and beginning to make their own judgments about what characterizes a dog and what characterizes a wolf. We don't say to a child, here are the rules for dog and those are the rules for wolf. We say, here is an example of a dog. Here is an example of a wolf. You figure out what the difference between them is. 
+
+So that's exactly what -- in that part, I mean, they're doing this at Deep Mind. 
+
+Yes. 
+
+That is exactly what happens and it offers the most far-reaching some will say. 
+
+Yes. 
+
+Because you are actually allowing the machine to learn. 
+
+That's the very key to this. 
+
+You're not just feeding it a huge amount of data. 
+
+Right. You are feeding it a huge amount of data. You are not feeding it rules. 
+
+Exactly. 
+
+That's right. So that is the crucial difference because the machine figures out basically that, the algorithm figures out how to adjust its own weights and balances. And ultimately capture those categories with a great degree of accuracy. I mean, this is what astonished me, again, going back to that conversation that I had, you know, with the AI groups. And then I began to see the real results. And the real results is that the machine outperforms seasoned dermatologists. And Geoffrey Hinton, who I spoke to, you know, who is considered the father of a certain kind of deep learning, Geoffrey Hinton thinks that these machines will outperform radiologists. And then after that, genetic diagnosis. After, the idea that now we can look at genes and figure out, you know, this is truly a cancer that will likely metastasize. We've really entered, or begun to enter a powerful diagnostic era. 
+
+So it will be able to determine early on whether a gene has the possibility... 
+
+Of becoming so, it will be able to determine whether a lesion, a pathological lesion, a melanoma, has the possibility of becoming aggressive and metastasize rapidly. It is very significant, for instance, as you know very well in prostate cancer. 
+
+Yes. 
+
+Prostate cancer is a great example of some prostate cancers will never be aggressive. They will be indolent. Other prostate cancers can be extremely aggressive, metastasize to bones and cause terrible disease. It would be astonishing if a combination of deep learning plus genetic technologies, plus real doctors, one would hope, plus real doctors, would somehow be able to tell patients how to distinguish between one and the other. 
+
+My impression is some of this is already being used in the case of radiologists. 
+
+Yes, it is important, so the kind -- 
+
+Some kind of AI is being used. 
+
+The kind of AI that is being used so far in -- as far as -- I went and sat through, as part of trying to investigate this, I sat through some of these demonstrations. The ones that are in real clinical use, you know, sort of really being work-horsed, it would be hard to call them intelligent. They are artificial but they are not intelligent. 
+
+What is it then they have? 
+
+Well, they have -- 
+
+Speed. 
+
+They have speed, they have mechanisms to spot -- they can guide you to spot an area; for instance, in mammography, they can guide you. What they cannot do, I make an important distinction here, that machine, the ones that, I would call it first-generation tools, when they catch -- even if that's seen 4,000 images, it is not smarter than the one that's seen zero images because it is rule-based. It is based on telling the machine some rules. You know, if it is this big, flag it. But the important distinction here, the radical advance here, is that these machines, the new machines, are not told any rules. They figure out the rules for themselves. And that is what is important. Because we're not telling them what to think. They are thinking, if you can call it thinking, they are doing it by themselves. That is what is astonishing. 
+
+So what does the algorithm teach them? 
+
+It, as far as I understand it, you know, I'm more on the medical end than the computer end. But as far as I understand it, it allows them to -- if you give them, if you give the machine, if you say here is category one and here is category two, the algorithm spots features in category one and category two, extracts those features from these two categories, and then begins to build, as it were, a mechanism to distinguish category one and category two, so it extracts the features. It says -- you know, what is amazing about it, and here is what is amazing, this took me by surprise. It cannot tell you, it's not easy for you to go back and query the machine and say, what are those features? You can do that to a human being. You can go back to a dermatologist and ask her or him. You can say well, what are -- you've learned now -- What are the features that you were picking up? And they will give you some answers. They may be right, they may be wrong. They can give you some answers. What is astonishing is it is apparently very difficult to do this to a machine. The machine knows, but it cannot tell you. And that's what is amazing. It is a black box. 
+
+So where is all this going? Are we going to now go to any doctor, and therefore is he going to be or she is going to be in partnership with whatever the latest developments are in artificial intelligence? And therefore it becomes their partner in diagnosis? 
+
+Most people think more than that. Most people think that it will be a partner in diagnosis, it will be a partner in treatment, it will be a partner. So there will be -- you know, in a discipline which is extremely information rich, pattern rich, and where the costs of making mistakes are very high, medicine. 
+
+Right. 
+
+Most people think that we will essentially begin to use computers as our extended arm, you know, it will be an entirely symbiotic relationship. That we will have a -- and gene sequencing and, you know, other technologies. We will become symbionts in medicine with these kinds of technologies. And it is not just going to be relegated to diagnosis, it will move right through. 
+
+When I tell you this now, you are gonna tell me it has no relevance at all, but I am constantly amazed about how the accumulation of huge amounts of data is serving every end. There is a story in "The New York Times" today or yesterday about how golfers are now able to accumulate data like they've never done before. 
+
+Right. 
+
+In terms of understanding A, what they're doing wrong. And B, how to play the game better. 
+
+That's absolutely correct. But I want to take you towards the ends of the piece where I raise the question about big data. Which is big data in this case is absolutely necessary to teach these algorithms how to distinguish between the categories. You know, if you feed it 2,000 examples of melanoma and 2,000 examples of non-melanoma, it will keep learning. 
+
+Right. 
+
+But big data is not very good at, might be better at soon, but is not very good at, is it can't help us answer why. It doesn't help us understand the patterns behind the patterns. And that is where, I think, human beings still have -- 
+
+Is that likely to change? 
+
+That's a big question. That is a big question. You know, as I gave you, again, the example of a child who distinguishes between a dog and a cat or a dog and a wolf. 
+
+Right. 
+
+But then the child, our children, we perform additional functions. We ask the question why is a dog different from a cat? We open our own black boxes. And say what makes a dog different from a cat? I give the example in this, you know, of a baseball player who knows exactly where the ball will land because he or she has thrown the ball a million times. 
+
+Right. 
+
+If you say landed exactly there, it will land exactly there, it will fall right at the spot. But that person may not know Newton's laws. They don't know why the ball is landing at the spot. They have become, using their mental and physical algorithm, they've become absolutely expert in landing the ball at the spot. And the question I raise in the piece is, you know, as we become more and more, as we depend more and more on the baseball player model of landing the ball in a spot, will we start losing the physicists? Will we start losing the person who takes the step back and says the reason that the ball landed there was because there is a hidden law behind all of this. 
+
+Yes. And the reason, I assume, without knowing, the reason that is important is so you can therefore apply that physics to this -- to another area, another area, another area. 
+
+Absolutely. And the reason in medicine is you can apply that fundamental knowledge to figuring out, you know, how do you direct the immune system against that melanoma that you just spotted? Why does the heart behave in this way? You know, how can we make new medicine? So there is a seduction of big data, there are certainly deep solutions that come out of big data. But in the end of the piece, I raise a question about, you know, there is a seduction of big data, too. Online, you can find the piece, it's called "AI versus MD." 
+
+Right. 
+
+And you know, of course, it is a bit of a provocative joke because in the end, it is going to be AI plus MD, we are going to fuse. But there is a sense, at least within the medical community, that there might be a loss in this. Not only the problems of over-diagnosis. We talked about those already. But the possibility that, you know, that we will lose a kind of way of thinking if we become very reliant on these devices. On the other hand, there are obviously great benefits. Imagine being able to diagnose melanoma with a great degree of accuracy or some other cancer or being able to spot -- 
+
+Where time is significant. 
+
+Where time is significant. And time costs money. 
+
+But still I go back to the point, if you can teach a computer how to learn so the machine knows how to learn, and the machine learns on its own, won't it be able to learn about the laws of physics and... 
+
+So, you're asking, perhaps, some of the most -- sort of the deeper questions in deep learning, as it were. You know, I mean again, from the standpoint of medicine, which is sort of where I would come from, at the question, from the standpoint of medicine, it would remain a challenge to figure out deeper laws of physiology. But I would, it is a question that the deep learning people are working on. I know this from having spent significant amount of time talking to them about how machines learn about medicine. 
+
+Well, I will close with this. I did a piece for "60 Minutes" about artificial intelligence and Watson, which is the IBM variation of all of this. What is amazing to me is that you go to most companies in America that are the least bit sophisticated and they are now, have dedicated significant development funds to figuring out how AI influences their business. 
+
+And medicine has got to be one of them. 
+
+Medicine has to be that. You go to most investment firms and they're looking at places. And they are trying to put together funds that look exactly into AI. I mean, it is perhaps the most discussed single topic in terms of the future, there are other kinds of areas in which you can talk about, but it has enormous focus right now from a whole range of people who understand its power. And those people who understand how far that power may go. 
+
+Genetic technology is AI. I mean, these two things are changing what human beings will be like in the future. There's no doubt about that. So something to know about. And particularly in medicine. 
+
+Thank you for coming. 
+
+My pleasure, thank you so much. 
+
+Point out one more time, The Gene: An Intimate History. A remarkable book, now out in paperback. Back in a moment. Stay with us. 
+

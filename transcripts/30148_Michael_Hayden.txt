@@ -1,0 +1,390 @@
+Good evening, I'm Dan Senor filling in for Charlie Rose. On Saturday, President Trump took to Twitter to accuse former president Barack Obama of wiretapping Trump Tower during the 2016 presidential election. FBI director James Comey reportedly asked the Justice Department to reject the president's unsubstantiated claims, arguing that the allegations are false. A spokesman for the White House said Monday morning that President Trump does not accept Comey's denial of the charge. Joining me now is General Michael Hayden. He has served as both director of the CIA and the National Security Agency. His book, "Playing to the Edge: American Intelligence in the Age of Terror," is now out in paperback. And I am pleased to have him at this table. 
+
+Hi. 
+
+Thank you. This is a fantastic book. 
+
+Thank you. 
+
+I read it when it was in hard cover. 
+
+Great. 
+
+I will revisit it now that it's in soft cover. But before we get to the book, let's talk about news that is happening today and this weekend. First, let's talk about the allegations of wiretapping, allegations that President Obama engaged in wiretapping. You were in the business -- 
+
+Yes. 
+
+-- of wiretapping, loosely defined at the NSA and at the CIA. Can you explain to our viewers the process by which an administration can initiate the wiretapping process? 
+
+Yes. And I guess the first thing I'd say, Dan, is probably the word administration is the wrong word. 
+
+OK, all right. 
+
+In the 1970's, Church Pike, reformer of the American intelligence community, we took the authority to do that out of the hands of the executive and put it into Article 3 courts. So the only way you can target, and that's the technical word we use here -- the only way you can target a U.S. person, an American citizen anywhere or anyone inside the United States, the only way you can target that person is through an Article 3 FISA warrant, Foreign Intelligence Surveillance Act court warrant, and you have to prove to the judge that the target of this surveillance is either, A, the agent of a foreign power; or B, involved in some sort of criminal activity to a standard of probable cause. And so, when President Trump tweets out Barack Obama bugged my home or Trump Tower, and so on, my first reaction is, that's just not so. Because even if Barack Obama was pulling a lever in the Oval Office to make that happen, there is nothing on the other end of that lever, right? He can't make it happen. It has to happen via an Article 3 court. So number one, the president can't order it. So put that claim aside. 
+
+OK. 
+
+Now number two, did it happen at all? All right. So, broadly speaking, there are two purposes for a FISA warrant. One is a foreign intelligence purpose. The other is counterintelligence or a law enforcement purpose. Now you have already quoted Director Comey. Now that's indirect. I would really like to see the director speak publicly. But according to reporting, Director Comey has said he didn't do it. 
+
+Right. 
+
+So it didn't happen in the counterintelligence or law enforcement lane. And yesterday on Meet the Press, Jim Clapper, former director of National Intelligence was on. And Jake Todd said, well, I'm sure you can't confirm or deny. And Jim said, oh yes, I can. I deny it, it didn't happen. And so what you've got -- 
+
+He said it didn't happen, not that he wasn't involved. He said it didn't happen. 
+
+It didn't happen while he was -- he and I, of course, when this was happening. And so you've got the two universes that FISA's come out of, one led by Jim Comey and the other led by Jim Clapper. And both men are saying it didn't happen. Now, could it have technically happened? Sure, all right. But in order for it to have happened, someone had to go to a court and prove to the judge that the target, which I'm assuming is somebody in the Trump campaign or Trump organization, the target was the agent of a foreign power involved in criminal activity to a level of probable cause. That can't be good news for the administration either. 
+
+Right. So I want to come back to the Russia piece of this because of public policy matter. But one other issue, today the administration, Secretary Kelly, who you know, announced a new order relating to the travel ban. Now I am somewhat sympathetic and we can debate the rollout of the initial travel ban. But the argument that the administration made initially that in those countries where individuals, you know, could be traveling from, you have basically failed states, not in all cases but in most, you have failed states, collapsed vetting processes. You know, shouldn't there be a case for, they would argue, shouldn't there be a case for at least tightening up the process by which we make decisions about who comes in and out of the country. 
+
+I understand. And they took the not so failed state, Iraq, out of the list. 
+
+Right. 
+
+Because there is a working government there. So I mean, I would say that we have got a far better implementation plan. But I probably would disagree with your premise for what I think is a flawed policy. It's not because these aren't bad places. They are, right? But I do think the campaign rhetoric has gotten way ahead of our skis here, in how much a threat this really represents. Second thing, is the campaign continually said, and we have no idea who these people are. That's simply not true. We do have vetting. In fact, let me go out on a limb here. We've got extreme vetting already. 
+
+That's U.S. government driven on this side. 
+
+The U.S. government vetting these people. Can we make it better? Sure. Should we try to make it better? Absolutely. But what you've got here is this almost apocalyptic threat with this totally dysfunctional vetting system, therefore we've got to stop people coming in and we've got to do a do-over. I just think that's flawed. Now in one way that's just unfortunate, and we're leaning on the world's unfortunate people to put up with this. But in other way, Dan, it is not just that. It's bad, all right, because particularly the way the first order was rolled out. But I think at the core even of the very improved order, is a premise that feeds the jihadist narrative that there is undying enmity between Islam and the west, Islam and modernity, Islam and the United States. There is a civil war going on within Islam. And there a fraction of Islam, not a trivial fraction, that believes that narrative. When we do these kinds of things, we seem to be living the role they say we have. We hate them, we don't want them here. And so I fear, and the damage may already have been done. I fear we have kind of reinforced their story. But this is a clash between civilizations rather than what I really think it is, Dan, the center of gravity is that this is a fight within a civilization, within Islam. And by doing what we just did, to my mind, without real purpose, has actually somewhat hurt us within that civil war. 
+
+So staying in that region, let's spend a moment on another issue that's top of the perplexing problem list, a lot to choose from. Iran. 
+
+Yes. 
+
+So during the campaign, then candidate Trump talked about the U.S. extricating itself from the multilateral deal that the Obama administration struck with Iran. What do you think -- do you think that is viable? Do you think that should be a priority? 
+
+So here's the way I look at the Iranian deal. Think of it as three packages, OK. One is what we call the deal. 
+
+Right. 
+
+And that's what is going to happen to the Iranian program in the next ten years, all right. I got gas with that, we can fill the rest of this space with my complaining about it. But frankly, of the three baskets I'm going to give you, it's the best. They are further away from a weapon than they would otherwise be. Then you've got the problem of what happens after ten years when the limits age off. And then finally, you've got all the things that Iran is doing in the region now. I think their correct approach, and I think the Trump administration is going there, is leave the current deal as deal alone. We don't have international consensus to rip it up anywhere. Start turning the heat up, though, amp up the pressure a bit on our friends about what happens in ten years when these things begin to age off. And then, and here is something the Obama administration refused to do, and then you got to start punching the Iranians in the nose for all the other things they're doing in the region. 
+
+Proxy wars? 
+
+Proxy wars. What they're doing in Iraq, certainly what they're doing in Syria, certainly what they're doing in Yemen. All the chest thumping in the straits of Hormuz and so on. These can't be cost free. And I fear, Dan, in fact, I'm pretty confident that this is what happened, that we held our policy towards all those transgressions hostage to the nuclear deal on the false premise that if we push back against this, the Iranians would walk from the deal. My thought on that is if they walk, they walk. But it's not an easy decision for them. And we shouldn't hold our policy hostage to that. 
+
+Let's move around to some of these other easily addressable problems. You live in a world of easily addressable problems. North Korea, so it has been reported that during the transition, the Obama administration basically warned the Trump, incoming Trump administration, to keep their eye on North Korea, that this could become the sleeper problem that could consume this administration. Is that how you see it? 
+
+Yes, it is exactly what I would have told. I had this sort of formula. It's our move, their move, no move, all right, our move's Syria, OK. We've got to go do something. No move, I think Russia and China. I think they're going to ground a little bit to kind of figure out where these guys are going. Their move, North Korea. You know as well as I, Dan, we've experienced this. Their foreign policy looks like it was written on the bottom of a shampoo bottle, OK. Provoke, accept concessions, repeat, provoke, and they're going to provoke. They're going to create a crisis. 
+
+And U.S. response should be? 
+
+Well actually, that's a really tough question. That is a genuinely wicked problem. The Obama administration -- and I must admit for a while, I thought this was the right hand. The Obama administration has used what they call strategic patience, which means pay no attention to the three year old throwing his porridge on the floor. He just wants your attention. 
+
+Right. 
+
+Pay no attention to him. Well, we've tried that for eight years, and now they're just a few years away from an ICBM capable of reaching Seattle. 
+
+Right. 
+
+So that's probably not working out as well as we would hope. And so now -- there are no easy choices. We could break right which would be a more aggressive policy towards the North Koreans, actually trying to stop them from developing. We could break left, which means we're going to decide to live with a nuclear North Korea, and we're going to make our peace with that fact. Or we could try one more time to have the approach I call actions have consequences, which means -- are you familiar with THAAD, the theater high altitude air defense we put in South Korea and the Chinese are going crazy. I think we need to go to the Chinese and say, yes, that's the stuff that happens when you let this guy do that. Oh, by the way, I think we'll put THAAD in Japan as well. And you know what, those nuclear capable ships that used to come here, yes, they're going to come back again. And you know what, we used to keep nuclear weapons in Kunsan. We still have the bunkers. I mean -- I don't mean to be bellicose to the Chinese, but to simply say, he does this, we've got to go do stuff. It's not intended for you, I know you think it is, but it's not. But we're going to do what we've got to go do. And maybe that incentivizes the Chinese to increase the torque. 
+
+Let's move to Russia. You talked about Russia before. So as analysts try to understand, public analysts, not analysts in the agency, in the intelligence communities. Analysts try to understand what it seems to be the Trump administration's motivation for seeming, you know, warming of relations with Vladimir Putin and his government. To give them the benefit of the doubt, there is a worldview out there that basically says America is no longer in an ideological struggle in the world. America is in a civilizational struggle. And the other side, the adversary in our civilization struggle for survival, for the survival of western civilization as we know it is radical Islam, we were talking about earlier. And Russia, while we may not like what they do in their own backyard, and while we may not like what they do in their neighborhood, we shouldn't let what they may or may not do to, in Ukraine, or potentially in the future in Lithuania or Estonia, bother us or get in the way of cooperation in working with Russia to combat the threat of radical Islam. That is, I mean, that is the school of thought out there. I don't necessarily agree with it, but that is the school of thought. 
+
+I understand. 
+
+How do you respond to that? 
+
+I think the premise is wrong. Remember, I said this is not yet a war between civilizations. So we've got a disagreement on the premise. But let's put that aside. Let's just agree for exercise purposes. Let's go implement it, all right? So how do you explain putting their arms around the Iranians and putting their other arms around Hezbollah? 
+
+Right. 
+
+You can't -- you can't picture two more violent actors in the Middle East with regard to radical Islam than these two Shia expressions of radical Islam. So I don't know that they've signed up to, let's go fight the radical Islam fight. I mean the president was fond of saying during the campaign that Russia is fighting ISIS. That's untrue. 
+
+Right. 
+
+They've hardly dropped a bomb on ISIS. They're fighting the more or less moderate opposition that we thought might have offered an alternative to the Bashar al-Assad regime. All they want to do is keep the Alawites, their own form of Shia radicalism, in power because it suits not the war of civilizations narrative, because it suits their naked Russian geopolitical ambitions to have a foothold in the Middle East. 
+
+And so, to your point, Russia is helping Syria bomb Aleppo, not Raqqa where ISIS is headquartered. 
+
+Exactly. 
+
+They're actually contributing to the catastrophe, the human suffering. 
+
+Yes. And so, if you think Syria is a problem you have to solve, if you're going to solve the broader question of radical Islam, the presence of that Alawite regime is the engine that continually fuels Sunni opposition which, the longer it goes, is more and more captured by the Sunnis who are not just willing to kill but are willing to die, the radicals. 
+
+OK. So let's talk about this book, "Playing to the Edge," which is a fantastic, if not at times, unnerving read. Not bedtime reading, shall we say. It's read it during the day while the sunlight is out, so you don't get totally freaked out and depressed. What has been the reaction to the book? I mean, you address some pretty, as you call them, grey areas, some really morally, some would say morally ambiguous decisions that you had to make almost every single day. 
+
+You bet. 
+
+What's the reaction? 
+
+So, "Playing to the Edge," I mean, it's designed to be, and it is, Dan, unapologetic. This is what we did. I don't have any regrets. Let me explain to you why we did it. I understand you may disagree, that's OK. We share values and we're just disagreeing on this. Not an argument between the forces of light and the forces of darkness. But you may disagree. And so, I began the book tour on the hard cover almost a year ago today. I took it on the road. And, you know, Dan, I have my personal fingerprints on every controversial program we've engaged in since 9/11. I've done the surveillance program at NSA. I created it. I inherited and then implemented renditions, detentions, interrogation programs at the CIA. And I played a very strong role in convincing the Bush administration in 2007-2008 to amp up the targeted killing program, check, check, check, check, check. I've got them all. And again, not apologetic. So I took it on the road. And frankly, I was prepared to be in a rope-a-dope from time to time depending on the audiences, and that turned out not to be the case. There actually is, I think, a fair amount of understanding of the American people that these are tough choices. And even those who disagreed, appreciated the candor, the honesty with which I said here's why we did what we did. I get your objection, but there's another dynamic too, that you might find interesting. So I'm out there a year ago, just as this campaign is getting under way. And so, I'm out there thinking I'm going to spend a heck of a lot of time explaining why we are playing to the edge. And because of the rhetoric of the campaign, Dan, from certain candidates. 
+
+Right. 
+
+I spent as much time talking about why there are edges and why we shouldn't go beyond them. Because some people in the campaign were talking about carpet bombing, killing terrorists' families, waterboarding is too good for people, and so on. And so it was a fascinating exercise for me, the playing to the edge guy, the guy with his fingerprints on all this, actually telling American audiences, no, no, no, no. There are things we shouldn't do. There are limits beyond which we should not go. 
+
+So I just want to zero in for our viewers, just to understand the kind of decisions you had to make at a very micro-level day to day. So you talk, for instance, in the book about making a decision about a targeted killing of an al-Qaeda leader, but if you, in this particular case if you struck the al-Qaeda leader, you would kill -- his grandson would be collateral damage in the operation. 
+
+What I talked about was the first targeted killing that the United States government took after President Bush, in the middle of 2008, began to ramp up the program. And the individual involved was Khabab al-Masri, who was the WMD maestro for al-Qaeda, and somebody we were spending an awful lot of treasure and putting a lot of people at risk to find. And we had the intelligence that we knew where he was. We knew that was him. But in the travel region of Pakistan, it's really hot in the summer, people sleep outdoors, families go out there and put out cots. And he unfortunately was there with his entourage, and unfortunately, with some members of his family including his grandson. And so we had to make the decision. We had to contribute to the government's decision, do we take the shot or not? And again, WMD. 
+
+Right. 
+
+And the United States government decided to take the shot. The shot was taken. He was killed, that's the good news. His grandson was killed too, that's the bad news. 
+
+The terror attacks we've seen in Europe, Paris, Nice, Brussels, I can go on, Germany. In so many of those kinds of attacks, they are not so much like we experienced here with San Bernardino, for instance, which more seemed like a lone wolf operation, whereas there -- 
+
+These were planning cells launched by the mothership to come into Europe. 
+
+Right. And they incubate in Europe. And they've plenty of time and space and infrastructure and resources to organize. Why don't we see that kind of thing here? Is it just a matter of time before we do? 
+
+Yes. Probably, but, all right. 
+
+Looking forward to the but. 
+
+Yes, there are important differences. One is geography. They can't walk here, all right. And another is demographics. There're far higher proportion, I mean you got a million refugees in Germany. 
+
+Right. 
+
+You got a significant number in France. We don't have that. Which brings me back to the previous debate. We're probably hyperventilating about the refugee threat here. We had 10,000 Syrians last year. 
+
+Right. 
+
+Not a million. Beyond that, we're actually pretty good at this, I mean, our intelligence services are actually world-class and we're a tough target, Dan. And our services are actually pretty tough. Back to "Playing to the Edge," we do a lot of things that make the Europeans kind of get a little fidgety in their seats when it comes to making sure our people are safe. And then one more thing, this is actually really important for the intel guy to tell you. We're a welcoming society. We know how to assimilate people. Our European friends don't. We do have radicalized individuals in America. We don't have radicalized communities. And we don't because of who we are. It brings us all the way back to the first conversation about the ban. You need to be careful about the second and third order effects of things, even if they are legitimate self-defense steps. 
+
+Over in the region where a lot of these individuals come from, at first, Middle East, parts of the Sunni Middle East. Growing cooperation now really is a surprise to many of us the last few years between the government of Israel and the Sunni Arab -- someone had a very good line, you know, that sure enough, President Obama actually did bring the Arabs and the Israelis together. 
+
+Yes, he did. 
+
+So, you know, in terms, they do a lot of intelligence sharing from what I understand, there's much more strategic cooperation. How important is it? How real is it? 
+
+It is real and it is important. The normal rhythm for a CIA chief going to that part of the world is in one sequence or another, do the Emirates, do the Saudis, do the Jordanians, do the Israelis, and do the Egyptians? So in essence you're sweeping up the Sunnis and the Israelis. Why do you do it that way? Because you hear the same thing in all the capitals. 
+
+Right. 
+
+They all have the same worldview. And they all want to talk about one thing. And it's not each other, it's Iran. 
+
+Iran. 
+
+And they're focused on Iran. I used to go visit Saudi Arabia and I talked a bit about this. I would visit with his majesty king Abdullah. The first lesson you've got to draw is the king of Saudi Arabia has time for the director of the CIA. That describes what kind of relationship we have with the kingdom. And his majesty, and the ambassador would always come back. 
+
+In four minutes. 
+
+Yes. And he'll always be the translator. And his majesty would give us three to five minutes on the plight of the Palestinians, all right. And then, Dan, you could almost see him go. 
+
+Right, right. 
+
+And then, he would immediately launch into what he wanted to talk about, which was he would begin by describing the Iranian threat. 
+
+Right. 
+
+And then when he got really warmed up it was the Persians. And when he really got going it was the Shia. 
+
+Right. 
+
+All right. So you've got this convergence of self-interest between the Sunni states and the Israelis with regard to the dominant threat in the region which is the Iranians. 
+
+And also, one would think, I agree that Iran is number one on the common threat list. Also the rise of the Muslim brotherhood, Sunni extremism is a threat, it's a threat inside Gaza and the West Bank, so Israel has a reason to be concerned about it. And it's a threat to Sisi in Egypt. It's a threat to King Abdullah in Jordan. 
+
+Yes. 
+
+One would think the Gulf Sunni states. 
+
+Yes. You know, life's complicated, right? 
+
+Right. 
+
+We've just talked about a whole bunch of monarchies, not republics, other than Israel, right. 
+
+Right. 
+
+And so, I guess the question I'd ask you is so what is the future of political Islam, right? 
+
+Right. 
+
+Where does Islam go, going forward, in a world in which not every country is a monarchy? In which you have republics. I kind of hold up my hand here and say if this arm here is the Sunni root, OK, you've got a variety of expressions of Sunni political Islam. You've got ISIS over here. You've got al-Qaeda over here. You got Hamas here. You got the brotherhood here. And you've got the AKP in Turkey here. And you drive far enough down my arm, Dan, you got common roots. 
+
+Right. 
+
+All right. And so where does that go? This one over here, AKP, and again, I discuss it a bit in the book, Condi thought that was political Islam we could bet on. This is Erdogan in Turkey and so -- and you know, I think she was right for a while. But unfortunately about 2011, 2012, I think Erdogan got off the democracy bus. 
+
+Right. President Obama thought too, we could work with Erdogan. 
+
+Yes. And so, besides all the other second and third order effects that created in the region, the fact that it kind of stopped the engine going forward on the development of political Islam is another great sadness. So it's a really complicated puzzle here. Because, frankly, I mean, I know what Sisi is doing in Egypt, right? My last international, almost my last international trip was Egypt, and Mubarak harangued me for over an hour complaining about President Bush and Secretary Rice about the freedom agenda. I understand what's going on here. I've got the situation in control. 
+
+He said that, Mubarak. 
+
+He said that, yes. It turns out he didn't. And so, Arab autocracy, OK, is a cul-de-sac. 
+
+Right. 
+
+It's not a highway. And so we can't live with Arab autocracy forever. So how do we end up with a political Islam that they and we can live with? 
+
+General Hayden, thank you for a, always -- not to say upbeat, but certainly illuminating discussion. "Playing to the Edge" is the book, which I highly recommend. It's a terrific read and it's as relevant today if not more than it was when it first came out. So thank you for being here and joining us. 
+
+Thank you, great seeing you again. 
+
+Good evening, I'm Dan Senor filling in for Charlie Rose. Last Thursday, Middlebury College experienced a scene that's becoming increasingly familiar. Dr. Charles Murray, a scholar at the American Enterprise Institute, was invited to speak. A massive protest greeted him. The intent was not to simply express peaceful dissent, but to shut down his speech. Dr. Murray and the Middlebury professor who interviewed him ran into a mob of protestors, several of whom physically assaulted Dr. Murray's interviewer and forced her to the hospital. The incident and others like it bring into sharp relief a growing tendency on American campuses, an intolerance for freedom of speech and a challenge to intellectual diversity. Joining me now to discuss this trend are Frank Bruni, an op-ed columnist for "The New York Times", he writes frequently about higher education, and Frank is the author of a recent bestseller about the college admissions mania. "Where You Go Is Not Who You'll Be" is the title of the book. And Jonathan Haidt who is a professor at NYU's Stern School of Business is the author of "The New York Times" bestselling book "The Righteous Mind: Why Good People Are Divided by Politics and Religion." He is also founder of a new organization dedicated to countering what he calls illiberalism on campus called the "Heterodox Academy." Welcome to you both. I want to start with you, Frank, there is a lot to cover in this discussion. First of all, how did we get here? This incident with Dr. Murray at Middlebury was not the first time this has happened. We're seeing this all over the place. This didn't exist when you and I were going to college. 
+
+No. 
+
+What has happened? 
+
+Well, luckily, we're not seeing the kind of violence at Middlebury or UC Berkeley everywhere, but we are seeing this desire to shut down speakers who are unwanted. I think there are three things come to mind above all others. One is we are living in an era when you step away from campus of increasingly partisan, polarized, vitriolic debate. So why wouldn't we see a heightened version of that on campuses among kids who are at the most passionate phase of life? I think it is also important to note that this is the generation that everybody gets a trophy generation, right? So, no one modulates themselves or thinks I should kind of retire in the public space, let other people have their say because everybody is, it's very individualist sentiment like that. And then lastly, and Jonathan, I think can speak to this much better than I can, there is not a lot of ideological diversity on a lot of the campuses where this is happening. And so the notion that somebody with a perspective totally contrary to your own, deserves the stage, deserves to be heard, that's sort of going away because there's so little diversity and there's so little appreciation for that in a really important ethos of education and of civil debate. 
+
+So Jonathan, how widespread is this? Give us some perspective here. How big a problem is this? 
+
+First, we need to put some parentheses around this because it's not happening on most campuses. Most campuses are not four-year residential schools. This kind of new moral worldview, of real moral passion only develops when you have a group of young people living together for four years. People are going home to a family or job, you don't get this. Secondly, it's not most students at just about any school, it's in the -- in the humanities especially. In the sciences, you don't see much sign of it. And even humanities, it may not be most students. I don't think it is. What you have to understand is that in any campus, there's a really interesting social environment where there are multiple moralities, multiple communities competing with each other and drawing recruits. And what we are seeing in the last few years, I think Frank's list is very, very good, what we are seeing in the last few years is the rise of a particular subgroup that is extremely passionate morally about equality, about fighting racism, and that is all great. But they've adopted a way that is kind of vindictive, that is all about calling people out. So people are afraid of them. It's not just the students, but actually the professors too. So even if it's only five or ten percent on any campus, the fact that they can file charges against a professor -- 
+
+Wow. 
+
+At NYU, we have a new bias response team. So, any video I show, anything I say in class, if it offends a student, there are numbers all over, in every bathroom, urging them to call, report me. So that changes the way we teach. And then as Frank said, if students aren't exposed to diverse ideas, then if somebody like Charles Murray comes, well, you know, he spoke at Middlebury ten years ago and there was no big problem. 
+
+After his more controversial book. He, since then, his 2012 book "Coming Apart" -- 
+
+Much less controversial 
+
+Much less controversial and that's what he was supposed to be speaking about -- 
+
+Quoted an opinion columns of "The New York Times" left and right. 
+
+It is the biggest problem of our age, I mean, why did Trump win? It is the coming apart by class. 
+
+Yes. 
+
+So yes, this should be the century of social sciences. We have gigantic social science problems. We need a social science establishment that can address these problems. But students are increasingly reacting. It's almost an allergic reaction because they are not exposed to diversity. 
+
+So, Frank, if you were to give those who are organizing these protests the benefit of the doubt, how are they -- 
+
+I want to second something Jonathan just said. It is a minority of students and it is a minority of schools. But they do set the tone. At those schools where this is prevalent, it's really, really pronounced. We're producing graduates who have little sense of the true ideological political diversity of American life. I went within the last couple of years, I want to be vague, to a very esteemed liberal arts college in the northeast. When I was there, the president had a dinner for me at the president's house. And all these faculty members went around the table and sang the praises of the school. And I heard about the affinity group they had for this group. I heard about XYZ. We got to the end, there were like 20 faculty members. At the end, they said, do you have any questions? They were all boasting about what a diverse environment they had. And I had one question, I said, is there a group for Republican students? And they looked at me like it had never occurred to them. And there was one student there, and she said, I think there is but they maybe have one member. Now schools trip over themselves to get racial diversity. They give a lot of lip service to socioeconomic diversity and some of them do better than others. But what about this whole other kind of diversity? How are we going to move forward as a country if many of our top schools are graduating kids who have no -- who can't even begin to process how a human being could vote for Donald Trump. They need to understand -- 
+
+Right. 
+
+-- who voted for Donald Trump and why and that they're not monsters. 
+
+If you were to give them the benefit of the doubt though, these students who are organizing and some of these academics, how would they rationalize this? How would they explain it? 
+
+It is -- they would say this is hate speech. They would say Charles Murray was a racist. They would say would you let somebody from the Klan come up here and speak? And then they would say the same sorts of things about Milo or Millo, I don't know how to pronounce his first name, I really don't care to learn. (LAUGHTER) But in terms of his attitude towards trans students and all that. And if we're being really honest, it is hard to figure out where the line is and everybody draws the line in different places. What is, you know, kind of constructive and acceptable dissent and what is pure provocation? I think Milo or Millo is pure provocation. Charles Murray has espoused a whole bunch of things I have problems with, via methodology that I have questions about. But I don't think he is merely a provocateur. And if you look at the book "Coming Apart," he is discussing some essential things in that book that in many ways augur the 2016 election cycle. I mean, that book is a precursor to "Hillbilly Elegy" which people are not raising the same questions about. 
+
+His whole career, going back to "The Bell Curve," "The Bell Curve" is primarily a book about social class. And what happens when you start doing college admissions on the basis of IQ tests or SAT's rather than who your father was. I think we have three giant divides in this country: there's a racial divide, there's a class divide, and there's a political divide, a left-right divide. And of these three, if you go back to 1980, since then, one of them has gotten a lot better, and two of them have gotten a lot worse. If this country ever blows part, it's gonna be because of the combination we're seeing of the class divide and the political divide. Now, in universities, we're mostly focused on the race problem, that is still an important problem, I'm not saying it is not. We need to work on it. But I think that universities have an important role, a crucial role to play. They should be the premiere place where you bring people from all over the country who have, who are different in politics and different in class, and they learn to get along with each other. They learn to tolerate people who have different views. 
+
+So how do your colleagues at NYU view you? Do they view you as an outcast or are they quietly supportive? Is there sort of like a silent majority on campus saying to you, thank you for being, what they would say is a voice of reason on this issue? 
+
+Well, you have to look at it again, field by field, the academy is vast and it's like different countries. And so I suspect that if I, you know, if I were to give a talk in the English department or the gender studies department, I think it might not go so well. But by and large, the vast majority of professors are what you might call liberal left. They are not at all illiberal. They are really anti-illiberal -- I mean, they really believe in freedom of speech. And so since I have been on this mission, I suppose, to call attention to this problem that we've lost our political diversity in social sciences, nothing bad has happened to me. My colleges in social psychology have been very positive. They recognize yeah, you know, good research requires that we challenge each other. So nothing bad has happened to me. I have not been kicked out. You know, on the internet people say bad things about me, but in the academy, there has been a lot of support. So I'm actually very encouraged. We now have 400 members at Heterodox Academy. 
+
+Please, for the viewers, explain what Heterodox is. 
+
+So we pick the kind of obscure academic name because our goal is to appeal to professors. Everybody can agree that an orthodox academy would be a bad thing. If everybody, if we have a sacrament and we all pledge allegiance, truth is fine, we can all pledge allegiance to truth, but if the academy becomes focused on, you know, anti-racism, even if it is a good goal, if we all are like, this is our mission, that is going to blind us. So, Heterodox Academy started when a wrote a paper with a few other social psychologists showing that we have lost almost all of our political diversity in psychology. And then when we published that, I heard from people in other fields saying the same thing. And people who even would dare question the sort of the favored position get kind of shot down or humiliated. And so our research is kind, you know, only in the politicized areas. In certain areas, our research I think is not as reliable as it would be. So me and some other professors, we got together, we said hey, let's buy a web domain name, let's start writing, let's call attention to this. And we are I think the most balanced organization in the entire academy. We are about even between left and right. We have a lot of centrists and libertarians. So if you go to heterodoxacademy.org and if you are a professor, join. We are just advocating. You know, we need to have sort of the give and take. We need freedom of inquiry. 
+
+I want to come back to what Frank said about students not being exposed to people who may view the world differently, ideologically. 
+
+The whole point of education. 
+
+Right, so, talk about when these students are leaving their senior year of college and they're actually pursuing jobs, professionally. Not just lack of ideological diversity, but what this means for them in terms of their ability to compete in an increasingly cut-throat, competitive, you know, employment environment? 
+
+Well, they're very, very rigid in their notions of how things should be. And I think that translates well beyond politics to everything else. I hear employers complaining all the time about this generation of students because they hate to be challenged, they hate to be countermanded. They have been told you're right, you're right, you're right. And that "you're right" extends to their ideological beliefs in these incredibly homogeneous enclaves that we constructed for them in the Ivy League, outside the Ivy League. Again, the minority of schools as Jonathan says, but a significant number of the schools that feed some of the employers, I think, you have in mind when you're asking that question. 
+
+You say the same thing for the business school? 
+
+Not so much. Business school is much more pragmatic. 
+
+Yes. 
+
+I was in the psychology department at UVA. If you're in the school of liberal arts, things are just much more ideological, much more about projecting an image of yourself as having certain kind of politics. Business students are much more pragmatic. There are hints of it, but business schools, engineering schools, natural sciences, those have very little of this. What I am hearing from students because lots of students write to me now, is that education schools and social work schools are the worst. Those are some of -- I don't know, but the ones I hear about are really, really repressive. So I think that should be very concerning. 
+
+And you're concerned about just in terms of how we're preparing students. 
+
+Oh, my God. So to build on what Frank said, I think the best analogy here is to understand what is happening with peanut allergies. Why are peanut allergies rising? They have been rising at an alarming rate since the '90s. So what do we do? I take my kids to school, we get these long lectures on how we can't have any peanut butter in school. 
+
+If you bring them, you are basically expelled. 
+
+That's right. A report came out last year, do you know why peanut allergies are rising? Because we haven't exposed kids to peanuts, that is the reason they are rising. So the new recommendation is you have to give kids peanuts early. 
+
+Right. 
+
+So this is what we have been doing. (LAUGHTER) It is not even a metaphor. I mean, it is the exact same psychological process. So Nassim Taleb has this wonderful book called Anti-fragile. Kids are anti-fragile. If you are fragile, it means oh, if I knock this, it will break, don't knock it. 
+
+Right. 
+
+But anti-fragile, like your bones, your brain, your personality, you need challenges, you need setbacks, you need to experience exclusion and insult in order to make it to adulthood. The biggest problem I think is the loss of unsupervised play. So Lenore Skenazy has been brilliant on this with her book Free-Range Kids. You know, in our childhoods, after school, we spend time where there was no adult around. But there was a real -- 
+
+No after school program. Imagine that. You just have to come home and kind of figure out how to keep yourself busy. 
+
+Yes, that's right. And so -- but in the '80s, there was a real crime wave. There were anti-bullying measures. There was a fear of abduction. So for a variety of reasons, kids basically were never out of adult oversight. And now in many towns, you can get arrested if your kid goes to the park to play. So, you know, we can't be too tough on these kids. We have deprived them of, in the name of keeping them safe and happy and comfortable, we have deprived them of uncomfortable experiences with their peers. There is always an adult around. And so they come to campus. This is the last chance, the last chance we could possibly give young Americans to learn to work out their differences. And we don't do it. We have more and more deans and processes and bias response teams so that there is always an adult to call in to settle the problem. 
+
+This is the -- I mean, to use the jargon of today, this is the helicopter parent producing the bubble-wrapped kid. When I did my college book about admissions to elite schools and all that, the complaint I heard most often from deans of admission, from college presidents at the very top schools in terms of selectiveness was that these kids arrive on campus and they are overachievers by every metric that that college is using. And the phrase that sticks with me is, one admissions dean said, I'm always amazed by the stunning fragility of these kids. 
+
+Wow. 
+
+Which is exactly what Jonathan was talking about. And so what do we do? We give them these safe spaces. We construct these affinity groups. And debate about that is so shot down, I wrote a column not long ago, asking the question, all of these colleges that put so much effort into bringing in a diverse class, once those kids are on campus, what do they do to actually promote interaction? So that you have diverse interactions and -- 
+
+Imagine that. 
+
+Right, and don't -- affinity groups, safe spaces -- don't those sort of work in the opposite direction? I was forwarded Tweets where people who were saying things like I never knew Frank Bruni was such a racist. I was a racist because -- so you asked how did Jonathan's colleagues react to him? When I talk to people in higher education, he is a hero because he is bringing up stuff about free speech and ideological diversity that they know needs to bring -- but they won't say that in the public square, or they won't say the same things he is saying because they are so worried about a kind of shaming that the left, right now, sadly seems to specialize in. 
+
+Yes, I think this is really crucial. Mark Lilla had a piece in "The New York Times" right after the election on the problem of identity politics and how this may have alienated a lot of people and contributed to Trump's victory. And the response from many academics was ferocious. One of his colleagues at Columbia, within a few days, had some essay basically linking him to the Ku Klux Klan. But here is the point. So Lilla comes back with this brilliant point. He says, that's a slur, not an argument. And once he said that, I realized oh my God, that is exactly what has been happening to me. I've been saying some pretty provocative things beginning with an Atlantic article with Greg Lukianoff, and I keep looking on the internet for people who will respond to it. And pretty much nobody is -- nobody is arguing against me for anything I say, but I do get a lot of people basically saying, I am a white male or I somehow I am winking at racism, something like that. So, young people who go through these colleges, they're exposed to rhetorical training that prevents them from learning how to engage. They are trained carefully in how to basically discredit your opponent. Slur, they learn to slur. They do not learn to argue. 
+
+So go look at the tape from Middlebury and that's exactly what you see, you see students with their backs turned, and they are chanting slurs, they are not having an intellectual argument. 
+
+And then what happens is they decide to move Dr. Murray and the Middlebury professor to another room. 
+
+Which, credit Middlebury for having that in place, Middlebury is not the villain here at all. 
+
+And actually, the professor, Allison Stanger, she said she wanted to challenge him, the reason she brought him, and the reason she wanted to interview him was because she strongly disagreed with his ideas and she was looking to a robust spirited debate. And she is the one who wound up in the hospital. 
+
+Here is the thing. I want to kind of retract a little bit to what I just said. Middlebury is not the villain in the way they handled his visit. 
+
+Right. 
+
+They did all the right things. But the culture is being created at schools like Middlebury, are producing students who behave that way. I mean, it is fine -- and it's more free speech and more free speech is better -- for students to protest a speaker coming, stand outside the venue, you know, in some way make clear I don't believe in what is being said in there, I want to offer a contrary perspective. But what you had happen at Middlebury and what you had happen at UC Berkeley when Millo/Milo went -- this is a stand I'm taking, I can't pronounce it -- what you saw was a form of registering disagreement that was completely out of bounds and has nothing to do with enlightened discourse. 
+
+That's right. 
+
+I think this calls attention to a gigantic generation gap. It is not just the millennials, it actually seemed to start just two to four years ago, this sort of new -- this new way of thinking, this new moral order. If you look at terms like safe space, trigger warning, they only really begin to emerge around 2012, 2013, if you look at Google trends. The big wave of dis-invitations was 2013. So there is a kind of new moral order. And I think social media is absolutely central to this. Facebook lowered its age for -- you could join it at 13 in 2006, 2007, something like that, around there. So the first wave of people, of kids who had been growing up on social media just graduated a year or two ago. So it is just -- it is the younger millennials. They have grown up totally linked to each other, always with their finger on the button, always knowing anything I say, I could be not just shamed in front of seven people, but in front of the entire planet. It could be an international sensation. 
+
+This generation also reflects the fact that when you curate your information the way you can now with the internet, when you choose only certain Twitter feeds to follow, when you like and share only certain things on Facebook that then let an algorithm kick in. We are living in a time when not just this generation but they're the kind of newcomers to it but everybody is able to construct their information flow and thus, the reality, and to live apart in these siloed ways online and you are seeing that reflected in this too. 
+
+We can block, you can literally block. Why can't I block Charles Murray? Why can't I press a button and keep him off campus? 
+
+If you can do it on the internet, why can't you do it in the flesh? 
+
+So, when I was on college campus, I was active in the Israel debate, the Israel debate about the peace process. When I speak to students today on campus, they say the BDS movement, the Boycott Divestment and Sanctions debate, boycotting Israel, getting campuses to boycott Israel, it's no longer just between those who support one policy on Israel and those who oppose another policy which it was like when I was going to college. Now, those who are hostile to Israel or U.S. policy towards Israel, are joined by almost like a coalition of all these different factions who know nothing about the issue, but they all lock arms. 
+
+That's right. The key to the new morality is a method of looking at society and looking in terms of power and privilege. So the old idea of an education is come to campus, we'll teach you lots of perspectives that you can use, you know, what, let's look at poverty. What would an economist say? You know, what would a Marxist say? You used to have a lot of perspectives to look at a single problem. What is happening now is some students -- again, it's only in a few departments -- but they are learning one perspective to look at everything. And so you start, so there is a good kind of identity politics, which is, you know, if black people are being denied rights, let's fight for their rights, that's the good kind. But there is a bad kind which is to train students, train young people to say let's divide everybody up by their race, gender, other categories. We'll assign them morale merit based on their level of privilege is bad, and victimhood is good. Okay, now let's look at everything through this lens. Israel, the Palestinians are the victims. So therefore, they are the good and the Jews or the Israelis are the bad. And then you get -- and then that, so there is one totalizing perspective. All social problems get reduced to this simple framework. I think we are doing them a disservice. I think where actually making students less wise. 
+
+You know what else I seen on campuses, Dan, is students who are not part of, who don't have the party line down pat. They really feel muffled. For some reason frequently when I've been on campuses, I will have a student guide or end up with a student who gives some sort of tell that he or she is religious. And I will say to that person, and I'm not a particularly religious person in the way we define it in this country, but I believe fervently in freedom along those lines. I will say to that student, how comfortable do you feel bringing up your religion or God in class or in the fraternity house or sorority house or whatever, and always this sort of -- they are so happy I asked the question, you know, I almost never talk about it. That is so wrong. You mentioned Israel, I think if you are an Israel supporter, you probably bite your tongue more than you shout it out. 
+
+Right, keep your head down. 
+
+And you shouldn't have to do that. 
+
+Right. So this report that you do, how many campuses do you touch in this report? 
+
+So far, we have, we just took the U.S. News and World Report top 150 and we said, we don't want people just looking at that and going for the top. What if you actually care about exposure diversity? So that's -- we have that up. Soon in the next couple of weeks, we are gonna get up the top 50 of liberal arts colleges. It appears -- I don't know for sure, but it appears that liberal arts colleges especially in New England are particularly intense on this. So we're going to get those ranked in the next couple of weeks. 
+
+So in the Middlebury case, so Murray and Stanger are driven from the stage, they decide to set up a separate room like a satellite room where they are gonna conduct their interview and live stream it into the audience. 
+
+Right. Someone pulls the fire alarm. 
+
+Someone pulls the fire alarm and then the sort of mob -- according to the public reports there is a good report in "The Washington Post," a good report in the "Weekly Standard" here from a former student there, Middlebury, so this mob of students with masks on. 
+
+Some of them, yes. 
+
+They start -- they're listening on the live stream for whether or not the fire alarms are breaking through in the live stream so they can determine if they are getting closer to the room and then they could storm the room. So when this happens, there is campus security. There is campus law enforcement. They seemed, I guess based on what I have seen, to have been almost absent from the situation. 
+
+Actually, if you go to the AEI website, Charles Murray writes about it all himself. On Twitter in there, he thanks -- 
+
+Campus security. 
+
+-- campus security, yes. I mean, I think they were doing what they could. Luckily, no one was hurt, right, at the end of the day. 
+
+The Middlebury professor who was interviewing Murray wound up in the hospital way with a neck injury because someone -- 
+
+Before we leave, one thing I don't think we said loudly and clearly enough is when people on the left or however you want, when they try to shut down this debate, do they not realize that Donald Trump's election in 2016 is partly the fruit of those sorts of actions? I know so many people who flirted with voting for Trump, who did vote for Trump, who were responding to his destruction of a kind of political correctness that they find oppressive. And so there is a real relevance to what we are talking about today on campus, and who is governing our country right now. And I don't think the people on the left have wrestled adequately with that. 
+
+And the reason is because you have to see this not as a practical method of addressing problems. It is the dawn of a new religion and I study moral psychology as though it's religion, politics, even sports tribalism, they are all manifestations of a tribalism. And I think we see this in the Charles Murray case very clearly. I just watched the video again today before coming here. At the end when the administrators say okay, we're going to move the talk -- and somebody screamed, off campus, off campus. And then he says, "to another venue on campus" then they scream, because what you have to see is the campus is their church, that's right, you cannot have blasphemy on campus. And so the best way to understand what happened I think is an "Auto-Da-Fe." It's a religious right coming together to punish the sinner, to punish the devil, and to reaffirm our community. So I think, I mean it is a crazy time, but it's also an incredibly fascinating time to be a social scientist because this is like straight out of Emile Durkheim what we are seeing today. 
+
+It is so hard that you really want to salute the passion of those students. I mean, I like that they are engaged, but I don't think they understand or the people who've constructed these campus environments understand the potential damage they're doing. 
+
+If only they learned that any virtue carried to excess becomes a vice. 
+
+Right, and -- 
+
+Baby Boomers did so good at learning that, right? 
+
+In ten years, the college campus could become unrecognizable to us if this trend continues. So hopefully we had a discussion today that will lead us in the direction to not let that happen. I want to thank you both for being here. Jonathan Haidt, Frank Bruni, thanks for an illuminating discussion. 
+
+Thanks. 
+
+Thanks. 
+

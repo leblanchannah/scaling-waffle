@@ -1,0 +1,342 @@
+Good evening. I am Roger Cohen filling in for Charlie Rose. We begin the program with WikiLeaks. The anti-secrecy organization released thousands of CIA documents and files today. The leaked information exposed tools the agency uses to hack smart phones, computers, and even internet connected televisions. It's believed to be among the biggest leaks of classified information in recent history. The authenticity of the documents has yet to be determined. WikiLeaks has indicated the source of the files is a current or former CIA contractor. Joining me now from Washington is Greg Miller of The Washington Post. Welcome, Greg. 
+
+Thank you. 
+
+Greg, hi. How do you assess the importance of this WikiLeaks disclosure right now? 
+
+Well, that's a good caveat because I actually think it might take weeks, if not longer, to get the full measure of the impact here. But for now, I mean, it looks like the CIA's sort of cyber weapons arsenal has, to a large extent, been laid bare. We haven't seen WikiLeaks posting actual code that somebody could sort of aim and shoot to carry out an actual hack. Instead it looks like blueprints and documents that describe its capabilities, and they are extensive. Including, as you mentioned, the ability to turn every day devices that millions and millions of people use, smart phones, Apple phones, Android phones, iPads, and even television sets, into collection tools for the agency. 
+
+So, you or I might be using What's App or some kind of Samsung TV and unbeknownst to us the CIA might be listening in? 
+
+Well, if you or I were doing that, or at least if I were doing that as a U.S. citizen and the agency were monitoring my communications, it would be in some trouble, hopefully. 
+
+Hopefully, yes. 
+
+But, yes. I mean, that's what these files illuminate. So the CIA has a very distinct role in sort of cyber espionage. It's built up its capability in this realm for years and years. It is more of sort of a black bag shop than is the national security agency, which we read about a couple of years ago amid the Snowden revelations which is scooping up mountains and mountains of data every day from the internet. This is more narrow, more targeted. But, yes, I mean, the capabilities that are revealed here are enormous. 
+
+What do you make of the timing of this, Greg? Why now? Why do you think WikiLeaks chose this moment six weeks into the administration? A lot of tensions with the intelligence services, a lot of unresolved issues, why now? Do you think there was a specific purpose in the timing? 
+
+You know, that is a really god question. I have talked to people who were also very curious about that. It's hard to know. I think that it certainly will please WikiLeaks to be able to sort of poke the CIA in the eye with this revelation right now. It comes -- it's awkward in some ways for the Trump administration because President Trump has declared himself to be such a fan of WikiLeaks, you know, cited the e-mail, the Hillary Clinton e-mails during his campaign, said at one point, I love WikiLeaks. Sided with WikiLeaks over the CIA in terms of whether Russia was behind the theft of all of those Democratic e-mails. 
+
+Do you think he'll still love WikiLeaks after this? 
+
+I mean -- 
+
+Do you think he'll say anything? 
+
+Well, he hasn't so far, and his press secretary has been utterly silent on this, which I think tells you that the U.S. government is really trying to sort out what happened here, was really caught off guard by this. I don't see any indication yet that the CIA saw this coming and had prepared the White House or anyone else. 
+
+Do you expect President Trump to react? I know he's unpredictable. 
+
+It's almost in his nature to react to something like this, right? I mean, yes, I think I do. How he will react to this is hard to know. This is -- the CIA is now run by Mike Pompeo, Trump's pick for that job. Will Trump enjoy seeing the CIA squirm as some of its most sensitive and valuable espionage tools are exposed? I don't know. 
+
+How damaging is this to our national security? 
+
+You know that's a question that we're really trying to sort out. I mean, I think that it is significantly damaging, but not to the extent that it will, you know, make the agency go dark in any way on any important target, right? This reveals how the CIA probably gathers information on a lot of legitimate adversaries, including a terrorist group like the Islamic state whose members use cellphones, cameras, video equipment, computers. I mean, these documents can help you sort out how the agency might go about penetrating those networks and -- 
+
+But that's very useful to our enemies, right? 
+
+Yes. So this could be highly useful to enemies, including, there are snippets of code here that amount to signatures that an adversary like Russia could use to search its systems to see if there are embedded CIA implants in any of its devices and networks. 
+
+What's your sense of who the source might be? And do you think that the president will go after the source? 
+
+Yes. Well, so WikiLeaks in its statement releasing these files, said that its source is a current or former intelligence contractor who obtained these files through some sort of unauthorized disclosure. There is a lot of suspicion among U.S. officials, of course, that Russia may be involved here. U.S. intelligence officials believe that Russia and WikiLeaks often work hand in hand, although, there is a counter argument here. I mean, if these were -- the sensitivity of these files is such that you would expect Russia perhaps to sit on them, take advantage of this knowledge without only using it to embarrass the United States. 
+
+How would you compare this, Greg, to the Snowden revelation? Snowden is in Russia, of course, now, and... 
+
+Yes. 
+
+What sort of -- there are different things going on here, but U.S. intelligence is being compromised in various ways. How would you -- what comparison would you make? 
+
+Right. So there are similarities and differences if we take WikiLeaks at its word, it appears to have another Snowden-type contractor out there providing a lot of secret information to WikiLeaks. There are some differences. So the Snowden revelations had immediate political repercussions and fallout, in large part because they were exposing massive surveillance programs in which millions of Americans' communications were swept up. So that was immediate -- there was an immediate reaction, a visceral reaction from the public that may not come here because these are much more narrow kind of operations that the agency is conducting and there is nothing that we have seen in these files so far that would indicate that any of it is being used against U.S. citizens. 
+
+So are these revelations more gratuitous? In the case of Snowden, you can certainly argue and many have, that this in the end produced some positive effects, very positive effects for U.S. society, and the debate between freedom and security. In this case, it seems on the face of it, more gratuitous. This is just the way the CIA goes about gathering information and these secrets are useful to our enemies, why would anyone want to reveal that? We didn't want to hurt the United States. 
+
+Yes. I think you are right that perhaps it's harder to see a meaningful public debate emerge from this leak, the way we saw after the Snowden revelations. Perhaps you could argue that, you know, Silicon Valley companies, including Apple, Google, and others, they will be implicated here. They are already very nervous about perception overseas that they work with U.S. intelligence agencies, that they designed flaws into their devices that enable the CIA and the NSA to monitor others overseas, and perhaps there will be some sort of reaction in countries like Germany, one of the disclosures, one of these documents suggests that the CIA has a massive hacking enterprise based in Frankfurt, Germany. But I think you're right that it's hard to compare these to the Snowden revelations in terms of the sort of propriety of the collection that they describe. 
+
+We've gone in a very short space of time, Greg, from no drama Obama to high drama, relentless drama, Donald Trump, and an administration that really didn't leak, to an administration that seems to be leaking all over the place. This is -- what is it like working in a Washington where leaks of various kinds are pretty much an everyday occurrence? 
+
+I mean, it's really disorienting, I have to say. I have covered national security in Washington for quite a long time now, and I've never seen anything like this, where every day there is a prospect of an enormous revelation. And this one may not fall into the same category of all of those leaks that seem aimed at that exposing what the Trump administration is doing in its early days. But, yes, it's not how Washington has worked for years and years. I mean, that might sound odd. Of course, leaks have been around forever in Washington, but the volume, the nature, I mean, they reflect a level of tension and distrust between the top levels of the White House and other areas of government that is just in some ways -- 
+
+Particularly the intelligence services in some cases, no? 
+
+Exactly. I mean, Trump has repeatedly disparaged the CIA and other intelligence services, dismissed its conclusions about Russia, an incredibly important subject, accused it of being engaged in using Nazi-like tactics to smear him. And then, seemingly surprised that there could be leaks that would undermine his position or authority. 
+
+How do you think Mike Pompeo will respond to the WikiLeaks revelation today? Do you expect a response of some kind? 
+
+I don't expect necessarily a public response from Mike Pompeo. I think the CIA, so far is declining to comment on this. The White House is declining to comment on this. We are monitoring closely to see what sort of investigation takes shape now, like -- it's clear the CIA will have to mount a really big counter intelligence probe to figure out what happened here, and will probably have to relay a crimes report to the FBI, which will also have to investigate. But I think, right now, I have to say, my impression is that they are just still in sorting out mode, what just happened? 
+
+Will the CIA have to change its methods? 
+
+Undoubtedly, I mean, I think that's clear. Although experts I have talked to have said that that is weirdly manageable, like you would expect that a revelation like this to be such a catastrophic setback that they would send them back to square one. But the reality is that these exploits for things like the iPhone are developed on this errative basis over and over again. Every time there is a new software update that patches some security flaw, there is another counter effort by spy agencies to find something new that they can get their hooks into. There was some confusion initially on these WikiLeaks files about whether the CIA had managed to crack the encryption used in very popular applications like What's App or Signal, that doesn't appear to be the case here. It looks like the agency's ability to work around those encryption programs depends on their ability to manipulate the devices themselves, not the apps that are loaded on to them. 
+
+So it's fixable? 
+
+I mean, I do think so. I think it will require some significant regrouping, but we've seen this over and over again. They certainly regrouped after the Snowden revelations. 
+
+Greg, thank you very much. Thank you. 
+
+Thank you. 
+
+The importance of civic education has perhaps never been more crucial to our democracy. Politicians often accuse one another of violating the Constitution, but surveys show that Americans have little understanding of the founding document. An Annenberg Public Policy Center Survey conducted last year, found only a quarter of Americans could name all three branches of government. Joining me now are two people who are determined to change that statistic. Kathleen Hall Jamieson joins from Washington. She is the director of the Annenberg Public Policy Center of the University of Pennsylvania. Here in New York is Robert Katzmann. He serves as a chief judge on the Second Circuit Court of Appeals. Two years ago, he launched a circuit-wide civic education initiative, "Justice For All: Courts and the Community." I am pleased to have both of them on this program. Welcome. 
+
+Thank you. 
+
+Judge, of late, I think a lot of people have woken up and thought, gosh, the constitution, the supreme law of the country, that's really important. Why is it, however, that knowledge of it seems to be so slight in many cases? 
+
+You know when I was growing up in New York, public schools of New York, civic education was so important. Our teachers understood that our democracy is fragile and that to have an understanding of that democracy, we needed to know about government. You know, it's the old line from John Dewey that for every generation, democracy must be born anew with education as its midwife. And I think that's what's happened over time is that education, civic education, has had less priority across the country than it should. 
+
+Why is that? Surely it's basic. 
+
+It is basic. It is basic. And certainly without knowledge of our governmental institutions, how can we expect our democracy to thrive? 
+
+Kathleen, how dangerous is this situation? Benjamin Franklin in 1787, famously said, when asked what form of government had been created, A republic, madam, if you can keep it. Are we going to be able to keep it without the kind of civic engagement that sustains a republic, a democracy? 
+
+There are times that are more critical than others, and times in which we are trying to balance the values of security and liberty, it is particularly important that we understand that we have three branches of government, what their roles are, and importantly, what the roles of an independent judiciary are. And what we see when we do our surveys of civic knowledge is that those who don't understand that we have three branches and what they are and what they're set to do, don't understand the checks and balances to understand why veto power is part of that, and why a veto can be overridden, and importantly don't understand independent judiciary. When you put all of those things into your equation, you ask what does that predict, it predicts a willingness to say, when the court issues an unpopular ruling, and does that more than once or twice, maybe we should think about just getting rid of the court. So part of what makes our system work is the public's belief in and understanding of the system. And when we are in difficult times, it's more important than ever that those understandings are firmly rooted. 
+
+Are you saying that most Americans don't understand checks and balances? That seems so fundamental? How can that be? I read somewhere that ten percent of college graduates think that Judge Judy is a member of the Supreme Court, ten percent. How is this possible? And we are seeing right now just how important it is to know something about these subjects. 
+
+I don't worry if people can't name justices on the Supreme Court. 
+
+Yes, but Judge Judy? 
+
+I worry if they don't understand what the Supreme Court is supposed to do. So when you ask people on a survey, what happens if there's a 4-4 Supreme Court ruling, which you can have right now because we don't have the ninth justice in place, there is a sizable percent of the population that thinks that the decision goes to the federal court of appeals. Another part of the population thinks, no, they just keep voting until they can resolve the tie. And in the survey we did two or three years back, we actually said, well, what is the other alternative? And we put in place -- it goes back to congress and congress gets to decide, and more than 20 percent of the public said, you know, that's right. Why is that important? Because when President Trump puts forward his immigration ban, his temporary suspension, and the court issues a ruling and the president defers to the ruling, the public needs to understand why the president does that, and needs to understand that is part of the checks and balances of our system actually working. 
+
+Well, the president, judge, only deferred to the ruling after speaking about so-called judges. In six short weeks we had pretty much frontal attacks on the first amendment, on the press, enemies of the people, we don't know exactly what happened, whether any aid or comfort was given by now President Trump's coterie in the run-up to the election and after November 8th. So I have to ask you, the kind of civics lessons in the basics that you've been trying to foster, would the president himself be a good candidate for that course? 
+
+Well, as you know, Roger, I can't get, as a judge, I can't get involved in the politics of the moment. What I can say is, and this interest that I've had in civic education is longstanding, is that each of us has a collective responsibility to understand how the institutions of government work, so that we can be respectful of those institutions. And that's why I think it's so critical to have these programs of civic education which try to educate the public, to bring communities closer to the institutions that we serve. And that's what we're doing in the Second Circuit in this project that began a couple of years ago. 
+
+And what are the main obstacles you've encountered to that? Why hasn't more of this been happening? 
+
+I think it's spreading. I think it's spreading. I think that there is an awareness. In our court system, Second Circuit of the courts of New York, Connecticut, and Vermont, the federal courts, at every level, the court of appeals, the district court, the magistrate court, the bankruptcy court, the judges are all engaged. We have a tremendous co-chair, Victor Marrero, the southern district of New York. And there are an extraordinary range of activities. We are working with boards of education on civics materials for textbooks and textbook revisions. We have teachers' institutes where teachers come into our courthouses, and they are paired with judges and scholars. This is a program -- 
+
+You're finding an enthusiastic response? 
+
+Very enthusiastic. We're doing this with the Justice Resource Center. We've got programs of reenactments where we reenact classic trials. 
+
+And Kathleen, I will repeat to you, perhaps you'll have a little more freedom to express yourself with the question I just asked the judge. Has the president been showing insufficient respect for, even perhaps contempt for, the constitution in some of his actions and statements since he took office? 
+
+If you will remember the president has all of the constitutional protections and we live in a country in which expression is something we value. We have to remember also that we have a press that there's to hold the president accountable and the government accountable. 
+
+We're doing our best, we're trying. 
+
+And in the process understand that what the first amendment does is says government isn't supposed to interfere with that right of the press to exercise its responsibilities. So at the beginning of the administration, I don't think we have to judge too early what larger questions such as the well-being of the constitution ultimately will be as a result of this presidency, this congress, this judiciary, and this moment. But I think we can say that this is a difficult moment in the nation's history because we are confronting problems that are very difficult. We've got an anxiety ridden electorate. We have an electorate that doesn't have the civics knowledge that it needs to really understand the checks and balances in our system and how they're supposed to function. And we have some rhetoric that has broken some norms that have been long lived and well established, and that's potentially problematic. 
+
+Yes. I mean, how dangerous is the repetitive fake news accusation, even today, fake news statement tweet from the president. How -- this is very disorienting, and if people are disoriented, they no longer know their rights. They no longer know where they stand. How troubling do you find these fake news accusations emanating almost daily from the oval office? Towards "The New York Times," "The Washington Post," and other institutions that -- let's face it, we make mistakes but they are pillars of the republic. 
+
+You know there are times in which attacks on an institution actually strengthen an institution. I am very proud of the journalism that has been developed over the course of the last two to three months. The congress has been doing its job. The president has been doing his job. The judiciary has been doing its job. The press has been doing its job as well. And to the extent that the press is vigilantly watching those boundaries and calling out those instances in which it thinks there is potential deception or misinformation, we ought to be standing up and cheering and remembering that's why the first amendment is there. The press's job is to hold government accountable, and government's job is to stay out of the press's way. 
+
+Judge, the blurring of the lines between what's true and what's false, does that bother you? Do you think that is happening in American society generally? That a lot of people are just unable to, in the cacophony, to distinguish the two? 
+
+I'm reminded of what a great mentor of mine once said, Daniel Patrick Moynihan. He used to say that you are entitled to your own opinion, but not to your own facts. And I think that what was at the core of that was a sense that there were things -- there are things that are discernible, and that there are data that are discernible, and that -- 
+
+Facts exist. 
+
+Facts exist, facts exist. And I think it's important that we keep sight of the importance. 
+
+Isn't it troubling that we even have to say that? That facts exist in 2017, in the United States of America? 
+
+Well, you know, on the other hand, in courts all the time, there are disputes about what the facts are. This is something that courts deal with all the time. They weigh the facts. They weigh the evidence, and this is not a new enterprise for any of us. 
+
+You know one of the important things that the court system does for us as a country and its citizenry is model standards of evidence and argument. It models the process by which one can draw inferences from available contested evidence, and come up with good judgments carefully reasoned. What we need now more than ever in the body politic is more of that kind of evidence driven, careful argument where we ask what's the link between the evidence and the assertion, and where is the evidence? And if you had to say what institution has protected that most vigilantly, you'd say it's the judiciary. And when the press is doing its job, it's a close second. 
+
+When you think about the grand experiment that is the constitution, what is it that the framers envisioned? They envisioned the interaction of diverse institutions, congress, the executive, the courts. They envisioned the interaction of diverse elements acting, and interests acting on those institutions. And there was a sense that although each institution would act according to its own interests and incentives, together, they would create a deliberative system with outcomes that would be in the public interest. And I think that's the model that we aspire to. And I think that we shouldn't lose sight of what it is the founders had in mind, and that's why civics education is so important because if we need to change things or tweet things, having that sense of what is that constitutional document, what is that framework, is all the more important. 
+
+It's very moving, I think, seeing the ingeniousness and foresight of the founders pitted against a contemporary situation. 
+
+And they were so young, in their 30's, 20's, 40's, I mean, it's really remarkable wisdom in their youth. 
+
+I'd like to ask both of you as we wind up here, do you think if there could be a new enthusiasm for education in civics that the country is very divided, red state, blue state, people think completely differently. I was a foreign correspondent a lot of my career. When I go from New York to Kentucky or Indiana, it is a foreign correspondent-type experience. Do you think this could bring the country together in some way if everybody reacquainted themselves with these basic rules? 
+
+I wish that we could find a way to increase the likelihood that those who are in charge of a country and those who constitute the citizenry would look back at the kind of content that good civics education has and learn the lessons of the past. We learn from the Korematsu case from Japanese internment that the country can make serious mistakes when it has tried to balance security and liberty. We learned from the Cherokee nations case that when the president doesn't enforce an order of the court, we can have really consequential, hurtful times for a whole segment of our population, that gave us the Trail of Tears. We learned across time that the country can make mistakes and it needs to learn from the mistakes. When we give up on civics and understanding how we came to where we are as a nation, we may forget some of those lessons and as a result, we may have to repeat them. That would be tragic. 
+
+Judge. 
+
+I couldn't agree more. I think that civic education is a force that can provide the ties that bind. They can provide us with a sense of what is it that brings us together, whatever our differences might be. It is no accident that George Washington envisioned a national university, that James Madison thought that there should be a seminary of knowledge and of ideas, because out of that educational process comes better understanding, whatever our differences, because then we will be talking to one another with a common language, and we better be able to appreciate what is in this little book. 
+
+How worried are you about the republic? Just a very short answer. I would like to hear from you both. Very, a little, somewhat? 
+
+I am not worried about the republic in the sense that I have faith in our institutions. But more than that, I have faith in our people, that time and time again, the citizenry has met the test. There have been times when things haven't gone quite right, but yet we have met the challenge and overcome them. So I am optimistic as to the future. 
+
+Kathleen? 
+
+I would be less worried if we could increase the level of civics knowledge and revivify our own sense of how we've gotten to where we are including those moments in which we got things wrong, because then we can ensure that we are not going to repeat those mistakes. So when I think we are not going to recover that knowledge and we are not going to raise that level of civics awareness, I am worried more than I am if I think we are gonna be able to recover. 
+
+Thank you very much. 
+
+Thank you. 
+
+Thank you. 
+
+"Cries from Syria" is the new documentary from Oscar-nominated director Evgeny Afineevsky. It recounts the horror of the Syrian war, featuring interviews with journalists, activists, and children who have experienced the brutality firsthand. Here is a look at the trailer. (MUSIC) 
+
+Syria is a very ancient and beautiful country. It is called the cradle of civilization. But we have been living under a dictatorship for 40 years. But we were so optimistic that the revolution will, sooner or later, start in Syria. (MUSIC) They wrote, "It's your turn, doctor," because Bashar al-Assad was trained as a doctor. 
+
+Anyone who talk about him, he will just disappear or he will die. (GUNFIRE) 
+
+It was horrible, it started the revolution all over Syria. More than half a million people joined demonstrations. (MUSIC) 
+
+Our job is to save their life through destroying the terrorists. (EXPLOSION) 
+
+We demonstrated holding roses and he called us terrorists. 
+
+This regime, they are supposed to protect us, but they are not protecting us. They are shooting us. 
+
+And when the Russians got involved, things are getting worse every day. (EXPLOSION) We Syrians are the people who are suffering the most from ISIS. (MUSIC) 
+
+There is a group of people who give us hope, a group who are trying to save lives. (MUSIC) 
+
+We are not terrorists. We are people like everyone in this world. And we still have dreams. (MUSIC) 
+
+The HBO documentary film "Cries from Syria" will debut March 13 on HBO. I am pleased to have the film's director, Evgeny Afineevsky, and journalist, Kholoud Helmi, at this table for the first time. Welcome. 
+
+Thank you. 
+
+Evgeny, Syria is unconscionable abomination, it is a stain on all humanity. But this war has now been going on for almost six years. Half a million dead, five million refugees, other millions displaced. A lot of people's eyes just glaze over at this point. You say Syria and they throw up their hands. So why did you make this movie? Why did you decide that this was a film you had to make? 
+
+I think a lot of people still have lack of knowledge about Syria, the beginning of the revolution, about what brought to such a huge crisis, refugee crisis, that we haven't experienced since second world war. So I think following the European crisis in 2015 after finishing "Winter on Fire," I found that the answer's not there. The answer that fueled these people, because of some misconception through the media, because media started to cover these events through the major, major waves of refugees in 2015, when a lot of immigrants from different, again, immigrants, refugees from different parts of the world and, again, I am emphasizing, the European Union doesn't have all Syrian refugees, it's only around 27 to 30 percent are Syrian refugees among all the people who are trying to reach the European Union. 
+
+How do you go about making the movie? Did you go yourself to Syria? How did you meet Kholoud? How did you do it? It is very tough for journalists to get into Syria. There are direct threats from ISIS. It is a very, very tough environment and yet you produce extraordinary footage in this movie. 
+
+First of all, I think thanks to the journalists and the activists who have been documenting every step of the revolution, because from the beginning, for them the camera became something that it was their weapon, to witness the atrocities, and to commend the atrocities. And I think thanks to them and to today's technology, it was able to make it happen. 
+
+Kholoud, what did it mean to you now today, living in Turkey, to have this opportunity in this movie to express your experiences? You are often in tears in the movie. I mean, this is something absolutely heart-wrenching. This is the loss of your country, the loss of your town, the loss of everything, and you have to sit and watch Bashar al-Assad saying, oh, they were all terrorists. There was no genuine uprising. These are very painful things. So what did it mean for you to be able to speak in this way to Evgeny's camera? 
+
+First, it was so difficult to remember these days. Living these events for six years, it took everything from us, starting from my home, my family members, my friends, and all the dreams. So to go remember all of these events and we kept like -- we try to keep our psychology like kind of a little bit -- like we are all traumatized, but we are bracing up to face things and continue. But it was so difficult to remember things from the past because I think that these were nightmares and -- 
+
+But remembering is so important. 
+
+Remembering is so important, thanks to Evgeny for this step, because it is so difficult for us. These things that we lived, now I am pushing them to the back of my memories. I don't want to remember them, but when I have to speak about them, they all come out. And after five years, there is someone who came to put the story all together from the beginning to the end. 
+
+What is it like for you when you watch President Assad in his palace essentially dismissing everything that has happened in your country over the last six years and explaining that you, anybody who thought like you, who wanted freedom, who wanted a more open society, who wanted an end to the decades of brutal, brutal rule, the massacre of Hama happened decades ago and the same family is still there. And he is calling you and people who think like you terrorists. What is it like for you in the movie to watch that? 
+
+First of all, sometimes it happens like it is funny. It is so sarcastic to listen to him saying this. But unfortunately, I hate no one in this world but Bashar Al-Assad. 
+
+But you do hate him? 
+
+I hate no one but him. And the hatred in my heart goes to the extent that -- I don't know what to say, but I mean, to see him safe and sound in the palace, just reciting and lecturing people that this is what happened. And this makes me feel so depressed because of the whole international community. 
+
+Some people think he could be part of the solution. President Putin thinks he could be part of the solution. What do you say to that? Could Syria -- 
+
+He is the problem. 
+
+He is the problem? 
+
+He is the problem. How could -- 
+
+More than ISIS? 
+
+Yes, for me, more than ISIS. Like my first enemy -- 
+
+Why? 
+
+Because ISIS was actually created by Assad and it is supported by him. I mean, if things would be like being a Syrian and the Syrian, I mean, living those events for six years, Assad was tracing us activists to silence us. And then the free Syrian armies started to liberate some parts of Syria, almost, 90 percent of Syria was free. This is 2000, end of 2012, 2013. All of a sudden, we started to have ISIS. And now, those people who fled Damascus, the capital, or any capital where the regime exists, they fled to oposition-held areas and now they are killed by ISIS. So activists who were lucky to flee Assad were killed and chased by ISIS. And ISIS is taking land over from the free Syrian army, handing it over to the regime and then the regime taking it over, back and forth like what happened in Palmyra. It is a game. It is very obvious that this is a filthy game and -- 
+
+A filthy game? 
+
+Yes. Between Assad and all its partners, including ISIS, to destroy us or to silence us and this happened -- like now we are losing not only power, we are losing ourselves. 
+
+Lost Aleppo. 
+
+We lost Aleppo. 
+
+Evgeny, you have some amazing footage involving children. I found some of the most powerful images in the movie involved children. Perhaps we could roll a segment about a child describing the war in Syria and then we can talk about that. (MUSIC) Evgeny, why do you focus on children so much? 
+
+You know what, I think, despite if you hate regime, like regime, nobody allowed the regime to torture kids and since the beginning of the revolution, we witnessed that it is actually the kids that have been tortured and then been killed. And I think using these images and allowing to these kids being vocal in the movie, allowing them who instead of having a child and calling them lost generation of Syrian kids who still have tons of hope, who are doing such activities that a grownup's doing, for example in the movie, you can see how optimistic they are helping and creating -- 
+
+I remember the kids who say President Assad turned off the electricity so now we have to bring the water up by ourselves and then they put together a pulley system to carry the water to the top floor of the building. And these are kids that are like eight or nine. So you watch that and you think for a moment maybe perhaps that is a source of hope. 
+
+It is. And you know what, they are very optimistic, they have a hope, and one of the reasons why I used the -- rolled known clips of the kids like Elan, three year old, that all rolled, witnessed this footage in September of 2015, the shot you see in the movie, Elan was fleeing the country with his family and found dead on the shores of Turkey, three year old. Elan symbolizes for me the death of the young kids in Syria. And then images in August of 2016, Amaran, in an ambulance, this symbolizes struggle and survival. And then al-Habib from December last year, symbolizing, for me, hope. so I think through these kids, through their stories, through the kids that I interviewed and I interviewed a lot of kids, all together interviewed over 100 people in my movie. So through these kids, for the first time, I am putting all of them in the context of the story through their faces, through their stories, I am trying to tell about uprising, about civil war, about all the interventions, about hope that these kids still have because they believe that one day they will be able to go back to Syria and rebuild the country. So for me it is important to deliver these voices and to keep my camera on the level of their eyes. I think they are witnesses, they are the heroes, they are also struggling with that, but they are also my heroes at the end of the day. 
+
+Kholoud, there is a cycle, you know, this boy's found head down on the beach and all the world erupts and says we cannot tolerate this any longer. This is terrible, unacceptable. And then the weeks go by and people ignore Syria again. It must be quite desperate for you watching this. 
+
+It is. Actually, I lost hope in governments, like I believed that governments are not going to do anything for Syria, and they are adding -- 
+
+Are you very disappointed in the United States? 
+
+Yes, I am. 
+
+Do you think President Obama should have upheld the red line as he said he would when the regime used chemical weapons? 
+
+There is no red line. Unfortunately, every single -- 
+
+There are no red lines, but he said there was. 
+
+But they crossed -- I mean, everyone, every president claimed that things are a red line. Like President Obama said that chemical weapons are a red line, but Assad crossed them and -- 
+
+With no consequence. 
+
+And only recently he hit eastern Ghouta with chemical weapons and people were -- they were just -- I mean, they are dead because of the chemical weapons, despite the siege, they are besieged for more than four years now, and he used chemical weapons against them. So where is the red line? No one knows. 
+
+What do you think about what President Putin and Russia have done in Syria, the bombardment of Aleppo, coming to the aid of President Assad, intervening militarily in a way that President Obama said could not be done with devastating consequences? 
+
+I think, first of all, it's misrepresentation. 
+
+What is misrepresentation? 
+
+It is a misrepresentation of the facts because according to him, he is fighting ISIS who is not in Aleppo. 
+
+According to Putin? 
+
+Yes. I think according to him, he is claiming one thing, but he is doing in reality -- 
+
+You don't think the Russians bombarded Aleppo? 
+
+No, I am thinking that -- I saw that they bombarded Aleppo. I am saying that according to their own news and according to himself, he is fighting ISIS, who has never been in Aleppo at that moment, so I think it is completely a misrepresentation of the facts and for me -- 
+
+By President Putin? 
+
+Yes. And I think what happens right now, when our president, new president, Trump wants to go with our soldiers into the Syrian grounds, this can be the biggest mistake for us because at the end of the day, it will be another death of innocent people. 
+
+You mentioned President Trump and he has an executive order that bars Syrian refugees and indeed all Syrians temporarily from coming to the United States. How do you react to that? It seems almost cruel. 
+
+I think it is a big mistake. I will tell why. If it was 20, 30 years ago, shutting door to the country, I think maybe it was right, but in these days when the terrorism operates in completely different grounds through the social media, I think first of all my suggestion to President Trump, to look for the root of the terrorism and to learn more about terrorism, like I was learning about these people. And I think if you understand the roots of the terrorism, then you can fight the terrorism. I suggest to cooperate more with intelligence that he is kind of avoiding to do, and to learn more about what is happening in our own country, because if you go back to the old terroristic attacks that we had here, none of these people came from Syria, none of these people came from these countries that we banned. But shutting the door in front of these people, innocent people who may be seeking shelter, they are seeking shelter. So I think it is the wrong thing because at the end of the day, shelter can be provided by all these radicals, and ISIS included, and these kids seeking shelter become the terrorists because they will be provided shelter by ISIS who knows how to brainwash the kids and keep them vulnerable. So I think the government needs to learn the roots of the terrorism and then to fight it in the proper way. This is different times than 30, 40 years ago when you are just shutting the borders and it helps you to fight terrorism. Terrorism is different these days. 
+
+Kholoud, what is your reaction to the travel ban? You travel on a Syrian passport. I understand you had a hard time at the Salt Lake City Airport, you were detained there for an hour and a half or so. What do you make of this atmosphere that seems to be intent on portraying all Muslims as a potential threat? 
+
+This is racism, first of all. And this is discrimination. I feel angry from the bottom of my heart, but it doesn't affect us Syrians like I mean, primarily, because the United States is not receiving Syrian refugees since the beginning. 
+
+Very few. 
+
+Very few. I mean, very few compared to other countries. 
+
+Especially Germany. 
+
+Especially Germany, yes. So, I mean, if they are not receiving people, then I mean, there are few people who have been received here. But the problem is those activists, including me, who every now and then try to make it to the states to talk to the people, speak to the media and meet prominent people, let's say from the congress or politicians, decision makers, to tell them about what is going on or to lobby for our cause. Now we are prevented to do this. 
+
+Do you think you will go home one day? 
+
+I will. Definitely. 
+
+When? 
+
+I don't know. 
+
+And what Syria will you go home to? 
+
+The Syria that I was dreaming about. 
+
+You still believe that? 
+
+Yes. 
+
+What is the basis for your belief? Just hope and faith? 
+
+And the sacrifice of my friends. We'll be traitors if we fail them, so I will continue with this until the end. 
+
+Until the end of time? 
+
+Either see this or die. And in both cases, I will be satisfied. 
+
+Evgeny, it is hard to continue after that, but do you believe that your movie will help bring about the situation that Kholoud just described and that she will be able to -- is that a purpose of yours, a reason for making the movie? 
+
+There is a main reason. Because I as a filmmaker believe in one thing. That we are responsible to learn about people and to tell their stories, to bring their voices to the entire world. And if I would be able to through this movie to change somebody's perception, to teach somebody, and to make people to change their minds, even a few, to change their lives, and then in my situation with this movie to save somebody's life. 
+
+Kholoud, what would you like to see America do? 
+
+Stop Assad from bombing Syrians, and our first agreement in 2012 when Assad started to use air jets, to have a no-fly zone. Nobody applied that. If anyone started to have a no-fly zone, hundreds of thousands of lives could be saved at that time. 
+
+Thank you very much. Truth is important. Facts are important. Remembering is important. Really powerful movie. Thank you very much. Evgeny and Kholoud, thank you. 
+
+Thank you. 
+
